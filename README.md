@@ -1,1 +1,1 @@
-#Benchmarking Image Upscaling using GAN on CPU's and GPU's
+# **Benchmarking Image Upscaling using GAN on CPUs and GPUs**
